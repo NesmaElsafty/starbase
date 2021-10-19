@@ -1,0 +1,22 @@
+body {
+    background: black;
+    
+}
+
+#app {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:greyscale;
+    text-align: center;
+    color: white;
+    margin-top: 60px ;
+}
+
+.character-card {
+    border: 2px solid #4FC08D;
+    border-radius: 4px;
+    cursor:pointer;
+    margin:20px;
+    padding: 5%;
+    text-align: center;
+}
