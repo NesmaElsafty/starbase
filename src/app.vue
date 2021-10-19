@@ -22,7 +22,7 @@ export default
 
     data(){
         return {
-            title: "7enk4 benk4",
+            title: "Starbase",
             init_ids: [1,2,3]
 
         }
